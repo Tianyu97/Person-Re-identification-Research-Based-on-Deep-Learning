@@ -1,4 +1,5 @@
-# Open-ReID
+# Person Re-identification Research Based on Deep Learning
+This project codes are based on this github link. https://github.com/Cysu/open-reid
 
 Open-ReID is a lightweight library of person re-identification for research
 purpose. It aims to provide a uniform interface for different datasets, a full
