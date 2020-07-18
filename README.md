@@ -26,3 +26,9 @@ This is just a quick example. VIPeR dataset may not be large enough to train a d
 
 Check about more [examples](https://cysu.github.io/open-reid/examples/training_id.html)
 and [benchmarks](https://cysu.github.io/open-reid/examples/benchmarks.html).
+
+## relevant pages screen shot
+![image](https://github.com/Tianyu97/Person-Re-identification-Research-Based-on-Deep-Learning/blob/master/images/results_example.png)
+![image](https://github.com/Tianyu97/Person-Re-identification-Research-Based-on-Deep-Learning/blob/master/images/framework.png)
+![image](https://github.com/Tianyu97/Person-Re-identification-Research-Based-on-Deep-Learning/blob/master/images/DeeperCut_keypoint_detection.jpg)
+![image](https://github.com/Tianyu97/Person-Re-identification-Research-Based-on-Deep-Learning/blob/master/images/divide_parts.png)
